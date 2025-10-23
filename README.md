@@ -82,5 +82,3 @@ taxi-demand-forecasting/
 <!-- - Integrate external features (weather, holidays, events).   -->
 <!-- - Compare performance of Prophet and hybrid models.   -->
 <!-- - Deploy forecasting API for real-time prediction. -->
-
----
